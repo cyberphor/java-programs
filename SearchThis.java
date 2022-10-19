@@ -16,6 +16,10 @@ public class SearchThis{
         JButton button2 = new JButton("Amount");
         windowFrame.add(button2);
 
+        // add text box
+        JTextField textField = new JTextField("Search");
+        windowFrame.add(textField);
+
         // set layout, size, and visbility
         windowFrame.setLayout(new FlowLayout());
         windowFrame.setSize(300, 300);    
