@@ -1,3 +1,3 @@
-# searchthis
-![GitHub](https://img.shields.io/github/license/cyberphor/searchthis?color=Green)  
-I am developing this app to teach myself the Java programming language. 
+# programs
+![GitHub](https://img.shields.io/github/license/cyberphor/programs?color=Green)  
+Programs written in C, Java, and Golang. 
