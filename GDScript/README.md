@@ -1,6 +1,3 @@
-# game-dev
-This is a repository of games and ideas I am developing using the Godot engine and GDScript programming language. This README.md file will also serve as my personal Godot and GDScript cheat-sheet. 
-
 ### Godot Cheat-Sheet
 **Download Godot**  
 [https://godotengine.org/download](https://godotengine.org/download)
@@ -14,5 +11,5 @@ Print output to the console.
 extends Node2D
 
 func _init():
-	print("Hello world!")
+    print("Hello world!")
 ```
