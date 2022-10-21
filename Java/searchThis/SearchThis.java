@@ -1,4 +1,4 @@
-package java.searchThis;
+package Java.SearchThis;
 import java.awt.*;
 import javax.swing.*;
 
