@@ -1,6 +1,5 @@
-package com.cyberphor.flashcards;
 
-public class Main {
+public class FlashCards {
     public static void flashCards() {
       System.out.println("Flash cards");
     }

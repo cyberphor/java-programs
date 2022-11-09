@@ -1,4 +1,3 @@
-package com.cyberphor.searchthis;
 import java.awt.*;
 import javax.swing.*;
 
