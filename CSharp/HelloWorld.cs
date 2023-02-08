@@ -1,9 +1,13 @@
-// file-name: HelloWorld.cs
+using System; // provides IntPtr and String
+using System.Runtime.InteropServices; // provides DLLImport 
 
-using System;
-
-class HelloWorld {
+namespace HelloWorld {
+  class Program {
+    [DllImport("User32.dll", SetLastError = true, CharSet = CharSet.Auto)]
+    public static extern int MessageBox(IntPtr hWnd, String message, String title, uint type);
+  
     static void Main(string[] args) {
-        Console.WriteLine("Hello world!");
+      MessageBox(IntPtr.Zero, "Hello World!", "Foo Bar", 0);
     }
+  }
 }

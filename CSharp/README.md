@@ -7,14 +7,15 @@ Set-Alias -Name "SendTo-CSharpCompiler" -Value "C:\windows\Microsoft.NET\Framewo
 
 **Step 2.** Write your source code. 
 ```cs
-// file-name: HelloWorld.cs
-
+// HelloWorld.cs
 using System;
 
-class HelloWorld {
+namespace HelloWorld {
+  class Program {
     static void Main(string[] args) {
         Console.WriteLine("Hello world!");
     }
+  }
 }
 ```
 
