@@ -1,5 +1,4 @@
 # Java Programs
-![GitHub](https://img.shields.io/github/license/cyberphor/programs?color=Green)  
 Programs written in Java.
 
 ### Copyright
