@@ -1,8 +1,6 @@
-# programming
+# Java Programs
 ![GitHub](https://img.shields.io/github/license/cyberphor/programs?color=Green)  
-Programs written in C, C#, Go, and Java.
+Programs written in Java.
 
-* [C](/C/)
-* [C#](/CSharp/)
-* [Go](/Go/)
-* [Java](/Java/)
+### Copyright
+This project is licensed under the terms of the [MIT license](/LICENSE)
